@@ -1,4 +1,4 @@
-
+package com.coreExamples.arrays;
 public class MultiDimArrayEx {
 	public static void main(String[] args) {
         String[][] names = {
